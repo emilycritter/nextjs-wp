@@ -11968,7 +11968,7 @@ function (_Component) {
 
 /***/ }),
 
-/***/ 0:
+/***/ 1:
 /*!************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fposts&absolutePagePath=%2FUsers%2Femilyritter%2FDocuments%2FProjects%2Fnext-js%2Fnextjs-wp%2Fpages%2Fposts.js ***!
   \************************************************************************************************************************************************************/
@@ -11991,5 +11991,5 @@ module.exports = dll_6dc2816e14fab51b8269;
 
 /***/ })
 
-},[[0,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=posts.js.map
