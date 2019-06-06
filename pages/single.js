@@ -23,7 +23,12 @@ export default class extends Component {
     return (
       <Fragment>
         <Navigation/>
-        <h1>Your soon to be single post!</h1>
+        <h1>{ this.props.post.title.rendered }</h1>
+        <article
+          className="entry-content"
+          dangerouslySetInnerHTML={ {
+          __html: this.props.post.content.rendered
+        } } />
       </Fragment>
     )
   }
